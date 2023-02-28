@@ -43,7 +43,7 @@ When creating the VM, allow it to create a new Virtual Network (Vnet)
 <br />
 
 <p>
-<img src="https://imgur.com/a/K9gA3ou height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YNoUPmk.jpg" height="80%" width="80%" alt=""/>
 </p>
 <p>
 -Part 2 (Installation)
